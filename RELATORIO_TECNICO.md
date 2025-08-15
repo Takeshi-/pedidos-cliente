@@ -58,5 +58,5 @@ Foram criados testes unitários e de web:
 - `PedidoConsumerTest` (Mockito + Jackson) — valida o cálculo do total (120.00)
 
 ## 7. Repositórios
-- GitHub: (adicionar link após subir)
+- GitHub: https://github.com/Takeshi-/pedidos-cliente/
 - DockerHub: (adicionar link após publicar)

@@ -59,4 +59,4 @@ Foram criados testes unitários e de web:
 
 ## 7. Repositórios
 - GitHub: https://github.com/Takeshi-/pedidos-cliente/
-- DockerHub: (adicionar link após publicar)
+- DockerHub: https://hub.docker.com/repository/docker/takeshihori/pedidos-cliente/
